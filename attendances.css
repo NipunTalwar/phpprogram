@@ -1,0 +1,143 @@
+
+*{
+
+  margin: 0;
+  padding: 0;
+}
+
+.logout
+  {
+    float: right;
+    position: relative;
+    bottom: 244px;
+  }
+
+  .table-right {
+    display: block;
+    float: left;
+}
+.tablecontentlef {
+    float: left;
+    display: block;
+}
+
+.wrapper-center {
+    width: 590px;
+    margin: 0 auto;
+    background: #DCDCDC;
+    padding: 1em;
+}
+.wrapper-center input.btn.btn-bordered.btn-primary.pull-right {
+     margin: 13px auto;
+    display: block;
+    padding: 8px 142px;
+    float: none !important;
+
+}
+.wrapper-center form {
+    margin: 0 auto;
+    width: 346px;
+}
+#username {
+    border: none;
+    padding: 4px;
+    width: 310px;
+    height: 34px;
+}
+.field select {
+    padding: 7px 15px;
+    background: #fff;
+    border: none;
+        margin-left: 1em;
+}
+
+.wrapper-center i.fa.fa-user {
+    padding: 10px;
+    background: #fff;
+    top: 0px;
+    position: relative;
+}
+.top-hrading {
+    font-size: 20px;
+
+}
+input#calcula {
+    height: 35px;
+    width: 199px;
+    }
+
+    .allcp-form .prepend-icon .field-icon {
+    top: 10px;}
+
+
+    .panel {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    padding: 2em;
+    /* margin-right: 0; */
+}
+div#contact {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    max-width: 100% !important;
+}
+label.field-icon {
+    width: 1px;
+    padding: 10;
+    height: inherit;
+    position: absolute;
+}
+.header-wrapex a.logout {
+    bottom: 0;
+    /* top: 0; */
+}
+.header-wrapex {
+    background: #DEDBDB;
+/*     padding: 0.5em; */
+}
+
+body label.field-icon {
+    display: table-row;
+    position: relative;
+}
+table#example tr td {
+    width: 93px !important;
+    /* background: red; */
+    display: list-item;
+    
+}
+table#example tr {
+    display: block;
+}
+body table#example td.commentx {
+    /* background: red; */
+    width: 387px !important;
+}
+
+h2.top-hrading {
+    display: inline;
+    width: 50%;
+}
+.navbar-inverse {
+   z-index: 9 !important;
+}
+
+
+
+.btn-group {
+    float: right;
+    position: relative;
+    top: 1em;
+    right: 4em;
+} 
+.sidenav {
+   
+    bottom: 18px !important;
+
+}
+.navbar-inverse .navbar-brand:focus, .navbar-inverse .navbar-brand:hover {
+    color: #7f828f !important;
+    background-color: transparent;
+}
